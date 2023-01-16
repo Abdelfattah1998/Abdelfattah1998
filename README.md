@@ -41,7 +41,7 @@ Project on GitHub: Technologies Used: HTML5, CSS, Material-UI, MongoDB, Express.
 <!-- - 💬 Ask me about ... -->
 ###  📫 How to reach me:
 #### [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdelfattah-hasanat/)
-#### [![Gmail](https://api.iconify.design/logos/google-gmail.svg?width=40&height=40)](abdelfattah2202@gmail.com)
+#### [![Gmail](https://api.iconify.design/logos/google-gmail.svg?width=40&height=40)](mailto:abdelfattah2202@gmail.com)
 #### [![Hicon](https://api.iconify.design/fa6-brands/hackerrank.svg?width=40&height=40)](https://www.hackerrank.com/abdelfattah2202)
 
 
