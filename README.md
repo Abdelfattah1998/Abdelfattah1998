@@ -5,7 +5,7 @@
 
 
 ### My Current TECHNICAL SKILLS:
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,matlab,java,nodejs,typescript,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,matlab,c,java,nodejs,typescript,mysql)](https://skillicons.dev)
 
 ### Frameworks & Libraries: 
   [![My Skills](https://skillicons.dev/icons?i=flask,spring,jquery,react,expressjs,bootstrap,materialui)](https://skillicons.dev)
