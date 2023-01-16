@@ -34,15 +34,14 @@ Project on GitHub: Technologies Used: HTML5, CSS, Material-UI, MongoDB, Express.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdelfattah1998&hide_border=true)](https://git.io/streak-stats)
 
-### - 🔭 I’m currently working on "The Path Of Million Line Code " Project
-### - 🌱 I’m currently learning about  **"Agile"** **"GraphQL"** **"Microservices Architecture"** 
+###  🔭 I’m currently working on "The Path Of Million Line Code " Project
+###  🌱 I’m currently learning about  **"Agile"** **"GraphQL"** **"Microservices Architecture"** 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-### - 📫 How to reach me:
-#### My Linked In Profile:
-   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdelfattah-hasanat/)
-#### My Gmail: abdelfattah2202@gmai.com
-#### [My Hacker Rank](https://www.hackerrank.com/abdelfattah2202)
+###  📫 How to reach me:
+#### [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdelfattah-hasanat/)
+#### [![Gmail](https://api.iconify.design/logos/google-gmail.svg?width=40&height=40)](abdelfattah2202@gmail.com)
+#### [![Hicon](https://api.iconify.design/fa6-brands/hackerrank.svg?width=40&height=40)](https://www.hackerrank.com/abdelfattah2202)
 
 
