@@ -41,7 +41,7 @@ Project on GitHub: Technologies Used: HTML5, CSS, Material-UI, MongoDB, Express.
 <!-- - 💬 Ask me about ... -->
 ### - 📫 How to reach me:
 #### My Linked In Profile:
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/abdelfattah-hasanat/))
+   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdelfattah-hasanat/)
 #### My Gmail: abdelfattah2202@gmai.com
 #### [My Hacker Rank](https://www.hackerrank.com/abdelfattah2202)
 
