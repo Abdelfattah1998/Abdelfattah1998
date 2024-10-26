@@ -8,7 +8,7 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,matlab,c,java,nodejs,typescript,mysql)](https://skillicons.dev)
 
 ### Frameworks & Libraries: 
-  [![My Skills](https://skillicons.dev/icons?i=flask,spring,jquery,react,expressjs,bootstrap,materialui)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=flask,django,spring,jquery,react,expressjs,bootstrap,materialui)](https://skillicons.dev)
 
 ### Tools Iam Familiar With:
 #### AJAX, Spring Tool Suite, REST API, GraphQL, AWS Amplify, JSON, PostMan, Socket.io, AWS(EC2), MySQL Workbench, Git, Github.
