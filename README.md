@@ -1,47 +1,71 @@
-## Hello, my name is Abdelfattah Hasanat 
-###  I am a Full Stack Developer with a Bachelor's degree in Electrical Engineering
-#### I have strong knowledge in digital logic design, computer organization and architecture, and advanced computer systems.
-#### I have recently completed an immersive training program in Python, Java, and MERN Web technologies.
 
+## 👋 Hello, I'm Abdelfattah Hasanat  
+### 💻 Software Engineer | Full Stack Developer | Backend Specialist  
 
-### My Current TECHNICAL SKILLS:
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,matlab,c,java,nodejs,typescript,mysql)](https://skillicons.dev)
+I'm a passionate and ambitious developer with a Bachelor's in Electrical Engineering and a Full-Stack Developer Certificate from AXSOS Academy. I bring experience from working as a **Back-End Engineer at Userpilot**, where I built scalable systems with Elixir and Phoenix, and currently serve as an **Instructor at UNRWA-RWTC**, teaching digital electronics and software tools.
 
-### Frameworks & Libraries: 
-  [![My Skills](https://skillicons.dev/icons?i=flask,django,spring,jquery,react,expressjs,bootstrap,materialui)](https://skillicons.dev)
+I'm driven by clean code, elegant architectures, and continuous learning. With strong problem-solving skills and a collaborative mindset, I enjoy turning ideas into efficient digital solutions.
 
-### Tools Iam Familiar With:
-#### AJAX, Spring Tool Suite, REST API, GraphQL, AWS Amplify, JSON, PostMan, Socket.io, AWS(EC2), MySQL Workbench, Git, Github.
+---
 
-### TECHNICAL PROJECTS
-#### •	[Welfare Pal](https://github.com/Abdelfattah1998/E-medical_Project): 
-E-medical Website connecting doctors and patients built using: Python/Django: 
-Project on Github  Technologies Used: Python, Django, HTML5, CSS, JavaScript, SQL, Jinja2, jQuery, Bootstrap, REST API, AWS(EC2), MySQL.
+### 🛠️ Tech Stack
 
-#### •	[FreeHire](https://github.com/Abdelfattah1998/Recruiter): 
-This application targets workers (construction workers, technicians, contractors...etc.), and workshops owners who are actively recruiting workers in Palestine.
-Project on GitHub  Technologies Used: Spring Boot, Spring Security, HTML5, CSS, JavaScript, SQL, Bootstrap, REST API, AWS(EC2), MySQL, Github.
+#### 🧠 Languages & DBs  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,elixir,c,cpp,mysql,mongodb,firebase)](https://skillicons.dev)  
+Also familiar with: Verilog HDL, Assembly, MATLAB, ClickHouse  
 
-#### •	[Medica](https://github.com/HasanMohammadSadaqa/Clinica): 
-Clinic Web-Page that helps doctor to organize appointments and documentation of his patients Built using MERN.
-Project on GitHub: Technologies Used: HTML5, CSS, Material-UI, MongoDB, Express.js, Mongoose, React.js, Bootstrap, REST API, AWS(EC2), Socket.io, Git, Github.
+#### ⚙️ Frameworks & Libraries  
+[![My Skills](https://skillicons.dev/icons?i=react,express,django,flask,spring,nodejs,bootstrap,materialui)](https://skillicons.dev)  
+Also used: Phoenix (Elixir), Mongoose, JWT, ORM, Socket.io  
 
+#### 🔧 Tools & Environments  
+Docker, Git & GitHub, Linux, AWS (EC2), MySQL Workbench, Spring Tool Suite, Postman, AJAX, Agile/Scrum, REST APIs  
 
-### A Little Stats About My GitHub:
-[![Abdelfattah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelfattah1998&count_private=true)](https://github.com/Abdelfattah1998/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelfattah1998&layout=compact)](https://github.com/Abdelfattah1998/github-readme-stats)
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdelfattah1998&hide_border=true)](https://git.io/streak-stats)
+### 💼 Notable Experience
 
-###  🔭 I’m currently working on "The Path Of Million Line Code " Project
-###  🌱 I’m currently learning about  **"Agile"** **"GraphQL"** **"Microservices Architecture"** 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-###  📫 How to reach me:
-#### [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdelfattah-hasanat/)
-#### [![Gmail](https://api.iconify.design/logos/google-gmail.svg?width=40&height=40)](mailto:abdelfattah2202@gmail.com)
-#### [![Hicon](https://api.iconify.design/fa6-brands/hackerrank.svg?width=40&height=40)](https://www.hackerrank.com/abdelfattah2202)
+#### 🏢 Back-End Engineer – *Userpilot* (Mar 2023 – Feb 2024)  
+- Built and maintained scalable backend services using **Elixir**, **Phoenix**, and **MySQL**  
+- Integrated **ClickHouse** and **Firebase** for high-performance data processing  
+- Led performance optimizations and collaborated cross-functionally in an Agile setup  
 
+#### 👨‍🏫 Instructor – *UNRWA-RWTC* (Mar 2024 – Present)  
+- Teaching **Digital Electronics**, **AutoCAD**, and **Electronics** to aspiring engineers  
+- Bringing real-world development practices into the classroom
 
+---
+
+### 🧪 Technical Projects
+
+#### • [Welfare Pal](https://github.com/Abdelfattah1998/E-medical_Project)  
+E-medical platform connecting doctors and patients  
+> **Stack:** Python, Django, Jinja2, Bootstrap, jQuery, REST API, AWS EC2, MySQL  
+
+#### • [FreeHire](https://github.com/Abdelfattah1998/Recruiter)  
+Job-matching app for workers and workshop owners in Palestine  
+> **Stack:** Spring Boot, Spring Security, HTML/CSS/JS, REST API, MySQL, AWS EC2  
+
+#### • [Medica](https://github.com/HasanMohammadSadaqa/Clinica)  
+Clinic web app for managing appointments and records  
+> **Stack:** MERN (MongoDB, Express.js, React, Node.js), Socket.io, AWS EC2  
+
+---
+
+### 🚀 Currently Working On
+🧱 *The Path of Million Line Code* – A deep dive into large-scale system design and code craftsmanship  
+🌱 Learning more about **GraphQL**, **Agile**, and **Microservices Architecture**
+
+---
+
+### 📈 GitHub Stats
+[![Abdelfattah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelfattah1998&count_private=true&show_icons=true&theme=dracula)](https://github.com/Abdelfattah1998)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelfattah1998&layout=compact&theme=dracula)](https://github.com/Abdelfattah1998)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdelfattah1998&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 📫 Connect with Me  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdelfattah-hasanat)  
+📧 [hasanatabdelfattah@gmail.com](mailto:hasanatabdelfattah@gmail.com)  
+[![HackerRank](https://api.iconify.design/fa6-brands/hackerrank.svg?width=30&height=30)](https://www.hackerrank.com/abdelfattah2202)
